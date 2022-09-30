@@ -5,7 +5,9 @@
     I also attached the json file to see how many shit they're logging about you it's just crazy
     Have fun sending them packets
 
-    Add a roblox COOKIE in the headers file at line 31
+    Add a roblox COOKIE in the headers file at line 33 (https://www.youtube.com/watch?v=LqNElCpjxQU)
+    
+    (The roblox server is waiting packets go send!!!)
 
 ]]
 
